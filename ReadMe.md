@@ -18,8 +18,7 @@ Domani è il compleanno di Silvia e non le ho ancora comprato nulla! Mi piacereb
 
 * FINO A CHE non ho inserito 5 libri nella lista
   * Scorro la pagina in cerca di libri
-    * SE trovo un libro interessante
-      * lo salvo in lista
+    * SE trovo un libro interessante, lo salvo in lista
     * ALTRIMENTI Continuo a scorrere fra i risultati
 
 ## Comparazione e finalizzazione dell'acquisto
